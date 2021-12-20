@@ -2,5 +2,8 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    flex: .80;
+    height: 70%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    overflow: hidden;
 }
