@@ -1,0 +1,9 @@
+.display-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: .20;
+    font-size: 40px;
+    background: #282c34;
+    color: white;
+}
