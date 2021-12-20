@@ -1,0 +1,39 @@
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: .25;
+    border: 1px solid rgba(0 , 0, 0, 0.04);
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+    height: 20%;
+    min-width: 25%;
+    background: #606060;
+
+}
+
+.button:hover {
+    background: #909090;
+    cursor: pointer;
+}
+
+.button:active {
+    background: #A0A0A0;
+}
+
+.button[data-size="2"] {
+    height: 40%;
+}
+
+.button[data-action="true"] {
+    background: #f57c00;
+}
+
+.button[data-action="true"]:hover {
+    background: #ffa726;
+}
+
+.button[data-action="true"]:active {
+    background: #ffb74d;
+}
