@@ -10,6 +10,4 @@ const Branding = () => {
   );
 };
 
-Branding.propTypes = {};
-
 export default Branding;

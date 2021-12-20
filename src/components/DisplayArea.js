@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const DisplayArea = ({ data }) => {
   return (
-    <div className="display-area" role="container">
+    <div className="display-area" role="display">
       {data}
     </div>
   );

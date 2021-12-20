@@ -1,4 +1,5 @@
-# Getting Started with Equal Experts Calculator App
+# Getting Started with Equal Experts Calculator App 
+###Version: 5b8d0fd276b6d288905ed2f63a934e057e8feca2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
